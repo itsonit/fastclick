@@ -3,3 +3,8 @@
 Thumbs.db
 Desktop.ini
 build
+
+#eclipse
+.settings/
+.project
+.buildpath
